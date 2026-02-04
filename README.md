@@ -5,7 +5,7 @@
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/b8760f2c-ff02-4c56-aab5-3808904f046f" title="Certified in Cybersecurity (CC)"><img src="https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="Certified in Cybersecurity (CC)" width="80" height="80"></a>
-<a href="https://www.credly.com/badges/70f41533-0fb3-4403-9cd7-58efd0f39dac" title="ISC2 Candidate"><img src="https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/02257673-321b-4607-9976-984bc26ab206" title="ISC2 Candidate"><img src="https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 <!--
