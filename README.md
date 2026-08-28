@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on software supply chain security tooling using go
 
 <!--START_SECTION:badges-->
+[![Google AI Professional Certificate](https://images.credly.com/size/80x80/images/5bd2d506-c95c-4766-a5b1-8da62a3a23b2/blob)](https://www.credly.com/badges/14ec0844-80fd-49ba-a84c-af30f0513770)
+[![Google AI Essentials V1](https://images.credly.com/size/80x80/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/7dee7c47-60ea-4dd7-8faa-89d964cac6e7)
 [![Certified in Cybersecurity (CC)](https://images.credly.com/size/80x80/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/b8760f2c-ff02-4c56-aab5-3808904f046f)
 [![ISC2 Candidate](https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](https://www.credly.com/badges/02257673-321b-4607-9976-984bc26ab206)
 <!--END_SECTION:badges-->
